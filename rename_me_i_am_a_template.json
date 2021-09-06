@@ -1,0 +1,27 @@
+{
+	"name": "Hello World Step 1",
+	"description": "The first step in creating a minamilistic KPI tile",
+	"eula": "",
+	"vendor": "",
+	"license": "",
+	"id": "com.sap.sample.helloworld1",
+	"newInstancePrefix": "HelloWorld1",
+	"version": "0.0.1",
+	"icon": "",
+	"webcomponents": [
+        {
+			"kind": "main",
+			"tag": "com-sap-sample-helloworld1",
+            "url": "https://github.com/BiancaSchmid/CustomWidget/blob/main/webcomponent.js", 
+		
+            "integrity": "",
+            "ignoreIntegrity" : true
+        }
+    ],
+	"properties": {
+	},
+	"methods": {
+	},
+	"events": {
+	}
+}
